@@ -1,0 +1,10 @@
+example.com
+john@luminartechnolab.com
+john@ust.com
+john@tcs.com
+john@gmail.com
+john@live.com
+test.com
+
+
+

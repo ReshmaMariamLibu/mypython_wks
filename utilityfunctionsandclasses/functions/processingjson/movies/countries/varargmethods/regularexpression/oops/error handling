@@ -1,0 +1,26 @@
+error handling
+class Exception
+error handling blocks in python
+    *except(if there is an error in try we use except block to handle error)
+    *finally-> for clean up process/madatory decissions
+    *raise(keyword)-> to throw custom error 
+    *try(doubtful code)
+e.args ->will convey the details of error msg
+
+defining error ->
+object
+Base Exception
+Exception
+Errors in Exception handling:
+    >arithemetic error
+    >assertion error
+    >attribute error
+    >os error
+    >blocking error
+    >index error
+
+
+
+
+
+

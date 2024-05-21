@@ -1,0 +1,14 @@
+                *git and github commands
+
+>git clone => remote repo to local workspace exact copy
+
+>git push =>  changes in local repository to remote repository 
+
+>git pull =>  changes from remote repository to local workspace (updates)
+
+>git add-A =>adding all changes in local workspace to staging area
+
+>git commit-m"your message" =>adding staging area files to local repository
+
+
+

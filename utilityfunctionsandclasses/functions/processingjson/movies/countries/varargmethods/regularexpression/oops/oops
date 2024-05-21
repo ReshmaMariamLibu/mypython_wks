@@ -1,0 +1,25 @@
+class-reference,blueprint,design,plan,pattern
+class(attribute,methods)
+object
+methods:>display,set
+set method is used to intilize a class_attributes
+display method is used to print/display the object
+constructor :intialize instance variable along with the creation of object 
+c++,java=>constructor name is always class_name
+javascript =>constructor name is constructor()
+static variable->binds with class ,if there is a common attribute in a class
+instance variable-> binds with object ->object inside access (self) outside 
+local variable-usual attributes in a class
+python => constructor is __init__
+constructor  will calls along with the creation of object
+__str__ ->object string representation 
+__class__ -> to identify which class object
+
+polymorphisum -> 1:method overloading
+              -> 2:method  overriding
+self ->refers to current class
+
+Abstraction ->hides implementation details
+           *Abstract class
+           *Abstract method
+

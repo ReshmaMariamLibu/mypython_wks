@@ -1,0 +1,5 @@
+farenheat_indegree=45
+#(°F − 32) × 5/9 = °C
+
+deg_result=(farenheat_indegree-32)*5/9
+print(f"{farenheat_indegree} degree farenheat = {deg_result} degree celsious")

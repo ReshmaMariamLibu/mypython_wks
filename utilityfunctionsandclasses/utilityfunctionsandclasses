@@ -1,0 +1,20 @@
+print() => display message in console
+
+input() => read value from console
+
+type() =>return data type of object
+
+range(1,11)=>(1,,,,,,,10) return sequence of values from start to end-1
+
+any()
+
+builtins.py contains utility functions and classes
+print()
+  input()
+  type()
+  range()
+  def sum(sequence of numbers)
+  def max(sequence of numbers)
+  def min(s o n)
+  def sorted(s o n,reverse=false)
+  

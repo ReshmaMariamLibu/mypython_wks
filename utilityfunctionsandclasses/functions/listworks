@@ -1,0 +1,27 @@
+collections=>  grup of objects referenced by a single name.
+list=specified by [],mutable,preserved(insertion order),duplication possible
+tuple
+set
+dictionary(dict)
+
+-ve indexing
+(0 to -1) values
+0->+ve indexing
+-1-> -ve indexing
+methods
+append()- to add objects in a specified list
+index(object)-to find index of specified object
+count()-to find the count of specified object in a list
+insert(index,obj)-to insert object in a specified location
+sort()-to sort the list in a specified manner
+remove(object)-to remove specified object
+pop(index=-1)-remove object from the specified index location
+copy()-to take the copy of object
+== -> compare value of two objects
+
+tuple -(,)
+duplication is allowed,insertion order is preserved,tuple cannot be updated
+methods
+count(obj),index()
+
+set - st{}
